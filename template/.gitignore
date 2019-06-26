@@ -1,0 +1,13 @@
+# FE ignore
+node_modules
+
+# debug ignore
+npm-debug.log
+dist/
+
+# IDE ignore
+.idea
+
+# npm&yarn ignore
+yarn-error.log
+yarn.lock
