@@ -1,17 +1,17 @@
 {
-  "name": "daruk-template",
+  "name": "homecredit-fe-template",
   "version": "0.2.0",
-  "description": "daruk project template",
+  "description": "homecredit-fe project template",
   "main": "index.js",
   "scripts": {
   },
   "repository": {
     "type": "git",
-    "url": "ssh://git@github.com:daruk-framework/daruk-template.git"
+    "url": "ssh://git@github.com:homecredit-fe-framework/homecredit-fe-template.git"
   },
   "keywords": [
-    "daruk",
-    "daruk template"
+    "homecredit-fe",
+    "homecredit-fe template"
   ],
   "author": "whale",
   "license": "MIT"

@@ -78,7 +78,7 @@ To get started:
     )}${lintMsg(data)}npm run dev\n`
   )}
 
-Documentation can be found at https://gitlab.weibo.cn/daruk/daruk
+Documentation can be found at https://gitlab.weibo.cn/homecredit-fe/homecredit-fe
 `
   console.log(message)
 }
