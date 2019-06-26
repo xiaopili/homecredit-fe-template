@@ -37,14 +37,14 @@ module.exports = function (data) {
         type: 'string',
         required: true,
         message: 'Project name',
-        default: data.destDirName || 'daruk-example'
+        default: data.destDirName || 'homecredit-fe-example'
       },
       description: {
         when: 'isNotTest',
         type: 'string',
         required: false,
         message: 'Project description',
-        default: 'A daruk project'
+        default: 'A homecredit-fe project'
       },
       author: {
         when: 'isNotTest',
